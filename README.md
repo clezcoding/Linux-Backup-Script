@@ -6,6 +6,9 @@ Every Backup is made with tar and every backup has a date stemp and a time stemp
 
 When you have made all Backups you need you only have to download it with WinSCP or an other FTP programm to your computer :)
 
+How can i use this Script?
+
+Just insert this command in your Shell: wget https://github.com/clezcoding/Linux-Backup-Script/archive/main.zip && unzip main.zip && cd multiscriptbyclez-main && chmod 777 install.sh && ./install.sh
 
 Your Backups are located in /opt
 
