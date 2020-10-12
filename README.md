@@ -8,7 +8,7 @@ When you have made all Backups you need you only have to download it with WinSCP
 
 How can i use this Script?
 
-Just insert this command in your Shell: wget https://github.com/clezcoding/Linux-Backup-Script/archive/main.zip && unzip main.zip && cd multiscriptbyclez-main && chmod 777 install.sh && ./install.sh
+Just insert this command in your Shell: wget https://github.com/clezcoding/Linux-Backup-Script/archive/main.zip && unzip main.zip && cd Linux-Backup-Script-main && chmod 777 BackupScript.sh && ./BackupScript.sh
 
 Your Backups are located in /opt
 
